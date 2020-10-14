@@ -50,6 +50,8 @@ Criteria: works must have codes available, and the reproducible results demonstr
    
 
 ## Tensor Ring Decomposition
+ * TR [[Web]](https://qibinzhao.github.io/) [[PDF]](https://arxiv.org/pdf/1606.05535.pdf)
+   * Tensor Ring Decomposition, Qibin Zhao et al.
  * TRLRF [[Web]](https://qibinzhao.github.io/) [[Code]](https://github.com/yuanlonghao/TRLRF) [[PDF]](https://arxiv.org/abs/1809.02288)
    * Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion (AAAI 2019), Longhao Yuan et al.
 
